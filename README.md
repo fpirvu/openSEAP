@@ -1,2 +1,2 @@
 # openSEAP
-You know SEAP? we want to make it public.
+Do you know SEAP? We want to make it public.
